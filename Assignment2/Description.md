@@ -62,4 +62,3 @@ IF(
  - Logical functions to evaluate the status and apply formatting.
 
 
-
